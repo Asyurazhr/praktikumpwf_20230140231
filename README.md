@@ -30,6 +30,9 @@ Praktikum-5
 <img width="1919" height="329" alt="image" src="https://github.com/user-attachments/assets/70d6262d-7aaa-4964-bc2c-ecc0a65c00e2" />
 <img width="1919" height="470" alt="image" src="https://github.com/user-attachments/assets/2b6b4327-4193-4d4e-bde9-f2dabc95f7ba" />
 
+Praktikum-6
+<img width="1919" height="1001" alt="image" src="https://github.com/user-attachments/assets/65dbf309-dcf4-452b-b7ac-1e8b7dcc5d25" />
+<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/e64850ba-7111-4530-8150-ee0064035ef4" />
 
 
 
