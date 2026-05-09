@@ -22,6 +22,13 @@ Praktikum-3
 <img width="1919" height="983" alt="image" src="https://github.com/user-attachments/assets/c8c164b1-349d-43b7-9932-39d640018495" />
 <img width="1919" height="597" alt="image" src="https://github.com/user-attachments/assets/14d3d996-c65b-4668-be52-bdbd70c445c2" />
 
+Praktikum-5
+<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/dc749156-be83-4af6-a828-5c7b4b7dd13e" />
+<img width="1907" height="334" alt="image" src="https://github.com/user-attachments/assets/4f1a3437-eab1-4d4f-8a56-2fb300355d15" />
+<img width="1919" height="919" alt="image" src="https://github.com/user-attachments/assets/a2a74b3c-34d9-4bde-a43d-cc1ff4f38b21" />
+<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/1722e6a5-cef1-4710-91df-4b4b150ebb03" />
+<img width="1919" height="329" alt="image" src="https://github.com/user-attachments/assets/70d6262d-7aaa-4964-bc2c-ecc0a65c00e2" />
+<img width="1919" height="470" alt="image" src="https://github.com/user-attachments/assets/2b6b4327-4193-4d4e-bde9-f2dabc95f7ba" />
 
 
 
